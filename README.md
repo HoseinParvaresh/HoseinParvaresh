@@ -60,7 +60,7 @@
 ###
 
 <div align="left">
-  <a href="parvaresh.dev@gmail.com" target="_blank">
+  <a href="mailto: parvaresh.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=%20&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://telegram.me/hosein2681/" target="_blank">
