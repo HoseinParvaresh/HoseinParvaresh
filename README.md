@@ -3,17 +3,16 @@
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HoseinParvaresh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <br clear="both">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HoseinParvaresh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=HoseinParvaresh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HoseinParvaresh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoseinParvaresh&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
+<br clear="both">
 
 <img align="right" height="245" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
 
@@ -52,11 +51,7 @@
 </div>
 
 ###
-
-<img align="right" height="185" src="https://cdn.dribbble.com/userupload/19906993/file/original-145ef8617ff6330321c1c1565d7fc587.gif"  />
-
-###
-
+<br clear="both">
 <h3 align="left">🌐 Social Medias</h3>
 
 ###
