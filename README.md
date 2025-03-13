@@ -57,6 +57,12 @@
   <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="40" alt="materialui logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React+Router&logoColor=FFFFFF" height="40" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React+Query&logoColor=FFFFFF" height="40" alt="npm logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=FFFFFF" height="40" alt="npm logo"  />
 </div>
 
 ###
