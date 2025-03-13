@@ -78,7 +78,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/HoseinParvaresh/HoseinParvaresh/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/HoseinParvaresh/HoseinParvaresh/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 ###
 
 <br clear="both">
