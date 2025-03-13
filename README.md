@@ -18,7 +18,7 @@
 
 ###
 <br clear="both">
-<h1 align="center">💻 Tech Stack ⚡</h1>
+<h2 align="center">💻 Tech Stack ⚡</h2>
 
 ###
 
