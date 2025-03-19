@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-<br><br><br>
+<br><br>
 - 👨‍💻 I'm Front-end Developer
 - 💻 More than 2 years of work experience
 - :school: I `studying` at the University of [Persian Gulf Bushehr](https://www.pgu.ac.ir/fa).
