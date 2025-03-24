@@ -12,7 +12,7 @@
 - :school: I `studying` at the University of [Persian Gulf Bushehr](https://www.pgu.ac.ir/fa).
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
-- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/19393507/default.pdf)
+- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/19434378/default.pdf)
 
 <br>
 
