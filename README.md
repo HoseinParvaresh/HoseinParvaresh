@@ -8,7 +8,7 @@
 
 <br><br>
 - I'm 23 years old, and I was born in Bushehr, Iran.
-- More than 2 years of work experience
+- More than 3 years of work experience
 - I studying at the University of [Persian Gulf Bushehr](https://www.pgu.ac.ir/fa).
 - I love using Software as a solution for every Problem
 - Always learning new things
