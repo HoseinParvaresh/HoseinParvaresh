@@ -7,14 +7,15 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- I'm 23 years old, and I was born in Bushehr, Iran.
+- I'm `23 years old`, and I was born in Bushehr, Iran.
 - More than 3 years of work experience
 - I studying at the University of [Persian Gulf Bushehr](https://www.pgu.ac.ir/fa).
 - I love using Software as a solution for every Problem
 - Always learning new things
--  I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/19498150/default.pdf)
+-  I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/19524207/default.pdf)
 
 <br>
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
@@ -35,8 +36,10 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="40" alt="eslint logo"  />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React+Router&logoColor=FFFFFF" height="40" alt="npm logo"  />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=FFFFFF" height="40" alt="npm logo"  />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React+Router&logoColor=FFFFFF" height="40" alt="react-router logo"  />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=FFFFFF" height="40" alt="axios logo"  />
+  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=FFFFFF" height="40" alt="swr logo"  />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React+Query&logoColor=FFFFFF" height="40" alt="react-query logo"  />
 </div>
 
 
