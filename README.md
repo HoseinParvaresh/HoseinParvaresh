@@ -41,10 +41,7 @@
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React+Router&logoColor=FFFFFF" height="40" alt="react-router logo"  />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=FFFFFF" height="40" alt="axios logo"  />
   <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=FFFFFF" height="40" alt="swr logo"  />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React+Query&logoColor=FFFFFF" height="40" alt="react-query logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" height="40" alt="react-query logo"  />
-  
-	
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React+Query&logoColor=FFFFFF" height="40" alt="react-query logo"  />  
 </div>
 
 
