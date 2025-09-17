@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=FFFFFF" height="40" alt="axios logo"  />
   <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=FFFFFF" height="40" alt="swr logo"  />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React+Query&logoColor=FFFFFF" height="40" alt="react-query logo"  />  
+  <img src="https://img.shields.io/badge/PocketBase-222222?style=for-the-badge&logo=PocketBase&logoColor=B8DBE4" height="40" alt="pocket base logo"  />  
 </div>
 
 
