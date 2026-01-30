@@ -1,23 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hi👋,+my+name's+Hosein+Parvaresh.;I'm+Front-end+Developer+from+Bushehr.;I+love+coding+and+learning.;&center=true&width=500&height=50"></a>
-</p>
-
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
-
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
-<br><br>
-- I'm `22 years old`, and I was born in Bushehr, Iran.
-- More than 3 years of work experience
-- I studying at the University of [Persian Gulf Bushehr](https://www.pgu.ac.ir/fa).
-- I love using Software as a solution for every Problem
-- Always learning new things
--  I’m currently open for a new `job opportunity`
-
-<br>
-
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
@@ -85,13 +65,3 @@
 </p>
 
 <br>
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-</br>
-
-<div align="center">
-   <img src="https://profile-counter.glitch.me/HoseinParvaresh/count.svg?"  />
-</div>
